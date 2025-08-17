@@ -1,5 +1,9 @@
 # 📊 Sales Performance Dashboard – Excel  
 
+[![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  
+[![Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/stargazers)  
+[![Forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/network/members)  
+
 A complete **Sales Performance Dashboard** built entirely in **Microsoft Excel** – without using Power BI or Tableau.  
 This project shows how Excel can still act as a **lightweight BI tool** when structured with the right features.  
 
@@ -30,4 +34,8 @@ This project shows how Excel can still act as a **lightweight BI tool** when str
 ## 📌 Key Takeaway  
 
 > Excel is not just about rows & columns – when designed properly, it becomes a **powerful visualization and business intelligence tool** for sales tracking, performance monitoring, and decision-making.  
+
+---
+
+## 📂 Repository Structure  
 
