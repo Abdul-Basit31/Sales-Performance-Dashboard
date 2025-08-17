@@ -33,9 +33,8 @@ This project shows how Excel can still act as a **lightweight BI tool** when str
 
 ## 📌 Key Takeaway  
 
-> Excel is not just about rows & columns – when designed properly, it becomes a **powerful visualization and business intelligence tool** for sales tracking, performance monitoring, and decision-making.  
+- Excel is not just about rows & columns – when designed properly, it becomes a **powerful visualization and business intelligence tool** for sales tracking, performance monitoring, and decision-making.  
 
----
 
 
 
