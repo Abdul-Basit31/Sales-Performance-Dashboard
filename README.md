@@ -37,5 +37,5 @@ This project shows how Excel can still act as a **lightweight BI tool** when str
 
 ---
 
-## 📂 Repository Structure  
+
 
